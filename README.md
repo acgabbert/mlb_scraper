@@ -1,1 +1,1 @@
-# mlb_scraper
+# MLB.com Scraper
